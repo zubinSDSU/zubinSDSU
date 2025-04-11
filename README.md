@@ -1,3 +1,9 @@
-Hello, I'm Zubin and I'm interested in Computer Science. I currently attend SDSU and am interested in artificial intelligence and cyber defense.
+Introduction:
 
-Test going to revert
+- I'm Zubin, studying Computer Science and Finance and San Diego State University
+- Interested in Cyber-security, AI, Fin-Tech, and overall software development
+- Reach me at:
+-   Email: zubinkumar2005@gmail.com
+-   Discord: zubinzubin
+-   Linked-in: https://www.linkedin.com/in/zubin-kumar-8786262a9/
+-   
