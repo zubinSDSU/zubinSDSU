@@ -1,6 +1,6 @@
 Introduction:
 
-- I'm Zubin, studying Computer Science and Finance and San Diego State University
+- I'm Zubin, studying Computer Science and Finance at San Diego State University
 - Interested in Cyber-security, AI, Fin-Tech, and overall software development
 - Versed in C++ and Java for now
 
